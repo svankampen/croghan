@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+header (
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+)
+
+body {
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
