@@ -1,24 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto&display=swap');
+
+/*add padding border and margin zero default*/
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-header (
-    font-family: proxima-nova,sans-serif;
-    font-weight: 700;
-    font-style: normal;
-)
-
+/*adding body styling with adobe font*/
 body {
-    font-family: proxima-nova,sans-serif;
-    font-weight: 700;
-    font-style: normal;
+    font-family: neue-haas-unica, sans-serif;
+    font-weight: 250;
+    color: #939896;
 }
 
-.logo-container {
+h1, h2 {
+    font-family: freight-text-pro,serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #414042;
+    letter-spacing: 2.5px;
+}
+
+
+
+#croghan_logo {
+    font-size: 260%;
+    text-decoration: none;
+}
+
+/*centering logo at top of screen in middle*/
+
+.center {
+    width:200px;
+    height:200px;
     position: absolute;
-    margin:0 auto;
-    width: 100px;
-    top:10px;
+    top: 15%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+#menu (
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 4.5px;
+)
+
+#menu li {
+    float: right;
+    margin-right: 25px;
 }
