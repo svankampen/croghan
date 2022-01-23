@@ -41,15 +41,28 @@ h1, h2 {
     margin-left: -100px;
 }
 
-#menu (
+.center a {
+    text-decoration: none;
+}
+
+#menu {
     font-family: proxima-nova,sans-serif;
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
-    letter-spacing: 4.5px;
-)
+    letter-spacing: 2.5px;
+}
 
 #menu li {
     float: right;
     margin-right: 25px;
+    margin-top: 30px;
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+#menu a {
+    text-decoration: none;
+    color:#414042
+   
 }
