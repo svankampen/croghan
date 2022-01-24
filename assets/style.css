@@ -27,13 +27,15 @@ h1, h2 {
 #croghan_logo {
     font-size: 260%;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
-/*centering logo at top of screen in middle*/
+/*centering logo at top of screen in middle ref=https://www.geeksforgeeks.org/how-to-make-elements-float-to-center/*/
 
 .center {
-    text-align-last: center;
-    
+    text-align: center;
+    position: relative;
+    top: 20px;
 }
 
 /*remove underline decoration*/
@@ -47,14 +49,17 @@ h1, h2 {
     font-style: normal;
     text-decoration: none;
     letter-spacing: 2.5px;
+    text-transform: uppercase;
+    
 }
+
 
 #menu li {
     float: right;
     margin-right: 25px;
     margin-top: 30px;
     list-style-type: none;
-    margin-right: 25px;
+    padding-bottom: 20px;
 }
 
 #menu a {
@@ -71,6 +76,21 @@ h1, h2 {
     background: url('./images/pexels-flora-westbrook-4191621.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
+}
+
+/*adding cover text on hero image*/
+
+#cover_text h2 {
+    font-style: italic;
+    color: #939896;
+    font-size: 140%;
+    width: 400px;
+    height: 100px;
+    font-family: proxima-nova, serif;
+    float: left;
+    padding: 50px;
+    
+
 }
 
 /*header style*/
