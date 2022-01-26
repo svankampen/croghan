@@ -108,3 +108,35 @@ header {
     height: 100px;
     width: 100%;
 }
+
+/*Brand Values Section*/
+
+#brand_values {
+    height: 700px;
+}
+
+/*left brand values container*/
+#left_bv {
+    float: left;
+    width: 50%;
+    padding-top: 30px;
+    background-color: red;
+
+}
+
+/*right brand values container*/
+#right_bv {
+    float: right;
+    width: 50%;
+    padding-top: 30px;
+    background-color: blue;
+
+}
+
+#brand_values_h3 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 220%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+}
