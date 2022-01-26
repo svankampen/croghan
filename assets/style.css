@@ -115,14 +115,32 @@ header {
     height: 700px;
 }
 
+#brand_values h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 220%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+}
+
 /*left brand values container*/
 #left_bv {
     float: left;
     width: 50%;
     padding-top: 30px;
-    background-color: red;
+    height: 600px;
+}
+
+#left_bv_content {
+    text-align: center;
 
 }
+
+#left_bv_content h3 {
+    font-size: 150%;
+    letter-spacing: 2.5px;
+}
+
 
 /*right brand values container*/
 #right_bv {
@@ -130,13 +148,22 @@ header {
     width: 50%;
     padding-top: 30px;
     background-color: blue;
+    height: 600px;
+}
+
+#right_bv_content {
+    text-align: center;
 
 }
 
-#brand_values_h3 {
-    text-align: center;
-    margin: 40px 0;
-    font-size: 220%;
-    text-transform: uppercase;
+#right_bv_content h3 {
+    font-size: 150%;
     letter-spacing: 2.5px;
 }
+
+.bv_paragraph {
+    margin-top: px;
+    text-align: center;
+
+
+
