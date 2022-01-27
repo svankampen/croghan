@@ -23,6 +23,11 @@ h1, h2 {
 }
 
 
+header {position: sticky;
+        top: 0;
+        background-color: #ffff;  
+    }
+
 
 #croghan_logo {
     font-size: 260%;
