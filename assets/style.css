@@ -50,6 +50,28 @@ nav {
     text-decoration: none;
     letter-spacing: 2.5px;
     text-transform: uppercase;
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    
+}
+
+nav li {
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    margin-right: 25px;
+    margin-top: 30px;
+    list-style-type: none;
+    padding-bottom: 20px;
+    color:#414042;
 }
 
 /*hover underline style for nav bar*/
@@ -58,30 +80,9 @@ nav a:hover {
     
 }
 
-//#menu {
-    font-family: proxima-nova,sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    text-decoration: none;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    
-}
-
-
-#menu li {
-    float: right;
-    margin-right: 25px;
-    margin-top: 30px;
-    list-style-type: none;
-    padding-bottom: 20px;
-}
-
-
-#menu a {
+nav a {
     text-decoration: none;
     color:#414042;
-   
 }
 
 /*hero image*/
@@ -92,6 +93,7 @@ nav a:hover {
     background: url('./images/pexels-flora-westbrook-4191621.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
+    
 }
 
 /*adding cover text on hero image*/
@@ -208,6 +210,8 @@ footer {
     color: #414042;
 }
 
-.contact {
-
+#contact_section {
+    height: 200px;
+    width: 100%;
+    background-color: #939896;
 }
