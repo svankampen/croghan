@@ -68,7 +68,7 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color:#414042
+    color:#414042;
    
 }
 
@@ -168,4 +168,30 @@ header {
 .bv_paragraph {
     margin-top: px;
     text-align: center;
+}
+
+/*footer styling*/
+
+footer {
+    height: 150px;
+    width: 100%;
+
+}
+
+/*social networks styling ref love running project*/
+.social_networks {
+    text-align: center;
+
+}
+
+.social_networks > li {
+    display: inline;
+}
+
+
+.social_networks i {
+    font-size: 160%;
+    padding: 5%;
+    margin: 1%;
+    color: #414042;
 }
