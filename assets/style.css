@@ -211,7 +211,42 @@ footer {
 }
 
 #contact_section {
-    height: 200px;
+    height: 400px;
     width: 100%;
-    background-color: #939896;
+    
 }
+
+#button {
+    background-color: #414042;
+    color: #ffff;
+    padding: 35px 45px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    text-transform: uppercase;
+    border-style: outset;
+    border-width: 2px;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 2.5px;
+}
+
+
+#button_container a:hover {
+    background-color: #939896;
+    
+}
+
+
+#button_container {
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center
+
+
+}
+
