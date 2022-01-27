@@ -43,15 +43,28 @@ h1, h2 {
     text-decoration: none;
 }
 
-#menu {
+nav {
     font-family: proxima-nova,sans-serif;
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
     letter-spacing: 2.5px;
     text-transform: uppercase;
+}
+
+/*hover underline style for nav bar*/
+nav a:hover {
+    text-decoration: underline !important;
     
-    
+}
+
+//#menu {
+    font-family: proxima-nova,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
     
 }
 
@@ -62,9 +75,8 @@ h1, h2 {
     margin-top: 30px;
     list-style-type: none;
     padding-bottom: 20px;
-    
-
 }
+
 
 #menu a {
     text-decoration: none;
@@ -194,4 +206,8 @@ footer {
     padding: 5%;
     margin: 1%;
     color: #414042;
+}
+
+.contact {
+
 }
