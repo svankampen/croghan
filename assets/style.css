@@ -113,7 +113,7 @@ nav a {
 
 #cover_text h2 {
     font-style: italic;
-    color: #939896;
+    color: #ffff;
     font-size: 120%;
     font-family: proxima-nova, serif;
     text-align: center;
@@ -187,7 +187,7 @@ header {
 /*footer styling*/
 
 footer {
-    height: 150px;
+    height: 100px;
     width: 100%;
 
 }
@@ -204,14 +204,16 @@ footer {
 
 
 .social_networks i {
-    font-size: 160%;
+    font-size: 200%;
     padding: 5%;
     margin: 1%;
     color: #414042;
 }
 
+
+/*Button "contact us" styling and effect*/
 #contact_section {
-    height: 400px;
+    height: 200px;
     width: 100%;
     
 }
@@ -222,7 +224,6 @@ footer {
     padding: 35px 45px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
     margin: 4px 2px;
     text-transform: uppercase;
     border-style: outset;
@@ -231,6 +232,7 @@ footer {
     font-weight: 700;
     font-style: normal;
     letter-spacing: 2.5px;
+
 }
 
 
@@ -241,12 +243,10 @@ footer {
 
 
 #button_container {
-    height: 100px;
-    width: 100%;
     padding: 20px;
     display: flex;
-    justify-content: center
-
-
+    justify-content: center;
+    align-items: center;
+ 
 }
 
