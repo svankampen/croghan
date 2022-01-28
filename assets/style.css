@@ -22,6 +22,13 @@ h1, h2 {
     letter-spacing: 2.5px;
 }
 
+h3 {font-family: proxima-nova,sans-serif;
+    color: #ffff;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    
+}
+
 
 header {position: sticky;
         top: 0;
@@ -258,10 +265,42 @@ footer {
     background-image: url(./images/HDRshooter-super-ultra-wide-wallpaper-043-X2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 425px;
     width: 100%;
     overflow: hidden;
-    
 
+}
+
+#find_us div {
+    color: #ffff;
+    background-color: rgba(73, 47, 47, 0.5);
+    height: 425px;
+    width: 25%;
+    float: left;
+    text-align: center;
+    border: solid 1px;
+    border-color: #ffff;
+    box-sizing: border-box;
+    padding: 5px;
+    
+}
+
+#find_us h2 {
+    font-family: freight-text-pro,serif;
+    color: #ffff;
+    letter-spacing: 2.5px;
+    margin-top: 15%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    }
+
+#find_us h3 {
+    font-family: proxima-nova, serif;
+    letter-spacing: 2.5px;
+    padding-top: 10px;
+    font-size: 110%;
+    margin-top: 5%;
 }
 
