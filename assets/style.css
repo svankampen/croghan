@@ -170,7 +170,6 @@ header {
     float: right;
     width: 50%;
     padding-top: 30px;
-    background-color: blue;
     height: 600px;
 }
 
@@ -253,5 +252,16 @@ footer {
     justify-content: center;
     align-items: center;
  
+}
+
+#find_us {
+    background-image: url(./images/HDRshooter-super-ultra-wide-wallpaper-043-X2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    
+
 }
 
