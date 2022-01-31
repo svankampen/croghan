@@ -198,8 +198,9 @@ header {
 /*footer styling*/
 
 footer {
-    height: 100px;
+    height: 200px;
     width: 100%;
+    background-color: rgb(44, 42, 42);
 
 }
 
@@ -218,7 +219,7 @@ footer {
     font-size: 200%;
     padding: 5%;
     margin: 1%;
-    color: #414042;
+    color: #ffff;
 }
 
 
@@ -226,6 +227,7 @@ footer {
 #contact_section {
     height: 200px;
     width: 100%;
+    margin-top: 80px;
     
 }
 
@@ -261,6 +263,7 @@ footer {
  
 }
 
+/*find us section*/
 #find_us {
     background-image: url(./images/HDRshooter-super-ultra-wide-wallpaper-043-X2.jpg);
     background-size: cover;
@@ -303,4 +306,14 @@ footer {
     font-size: 110%;
     margin-top: 5%;
 }
+
+/*title for find us section*/
+#find_us_title {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 220%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+}
+
 
