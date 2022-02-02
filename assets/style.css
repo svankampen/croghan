@@ -30,6 +30,8 @@ h3 {font-family: proxima-nova,sans-serif;
 }
 
 
+
+
 header {position: sticky;
         top: 0;
         background-color: #ffff;  
@@ -143,6 +145,7 @@ header {
 
 #brand_values {
     height: 700px;
+    
 }
 
 #brand_values h2 {
@@ -154,7 +157,7 @@ header {
 }
 
 /*left brand values container*/
-#left_bv {
+.left_bv {
     float: left;
     width: 50%;
     padding-top: 30px;
@@ -162,38 +165,34 @@ header {
 }
 
 
-#left_bv_content {
+.left_bv_content {
     text-align: center;
 
 }
 
-#left_bv_content h2 {
+.left_bv_content h2 {
     font-size: 150%;
     letter-spacing: 2.5px;
 }
 
 
 /*right brand values container*/
-#right_bv {
-    float: right;
+.right_bv {
+    float: left;
     width: 50%;
     padding-top: 30px;
     height: 600px;
 }
 
-#right_bv_content {
+
+.right_bv_content {
     text-align: center;
 
 }
 
-#right_bv_content h2 {
+.right_bv_content h2 {
     font-size: 150%;
     letter-spacing: 2.5px;
-}
-
-.bv_paragraph {
-    margin-top: px;
-    text-align: center;
 }
 
 /*footer styling*/
@@ -213,13 +212,14 @@ footer {
 
 .social_networks > li {
     display: inline;
+ 
 }
 
 
 .social_networks i {
     font-size: 200%;
-    padding: 60px;
-    margin-top: 40px;
+    padding: 2px;
+    margin: 80px;
     color: #ffff;
 }
 
@@ -320,17 +320,30 @@ footer {
 
 /*about us page cover text for hero image */
 #cover_text_about {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 250px;
     padding: 20px;
     margin-top: 30px;
     margin-left: 20px;
-    overflow: hidden;
     background-color: rgba(242, 95, 52, .7);
-    border-radius: 180%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     
+}
 
+#cover_text_about h3 {
+    padding: 10px;
+    font-size: 180%;
+
+}
+
+#cover_text_about p {
+    margin-top: 10px;
+    letter-spacing: 2.5px;
+    font-size: 150%;
+    color: #ffff;
+    text-align: center;
 }
 
