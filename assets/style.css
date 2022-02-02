@@ -372,3 +372,25 @@ footer {
     float: left;
 }
 
+#contact_us_section {
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+    margin-top: 200px;
+}
+
+#contact_form {
+    height: 250px;
+    width: 30%;
+    padding: 20px;
+    background-color: red;
+    margin-left: 50px;
+    
+
+}
+
+#contact_form h3 {
+
+}
+
+
