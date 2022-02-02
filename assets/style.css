@@ -342,30 +342,33 @@ footer {
 
 /*about us page cover text for hero image */
 #cover_text_about {
-    width: 350px;
-    height: 250px;
-    padding: 20px;
-    margin-top: 30px;
-    margin-left: 20px;
+    width: 30%;
+    height: 35%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
     background-color: rgba(242, 95, 52, .7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-     
+    border-radius: 90%;
+    
 }
 
 #cover_text_about h3 {
-    padding: 10px;
+    padding: 15px;
     font-size: 180%;
 
 }
 
 #cover_text_about p {
-    margin-top: 10px;
+    margin-top: 25px;
     letter-spacing: 2.5px;
     font-size: 150%;
     color: #ffff;
     text-align: center;
+}
+
+.about_us_blurb {
+    height: 250px;
+    width: 30%;
+    float: left;
 }
 
