@@ -29,8 +29,13 @@ h3 {font-family: proxima-nova,sans-serif;
     
 }
 
-
-
+h4 {
+    font-family: freight-text-pro,serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #414042;
+    letter-spacing: 2.5px;
+}
 
 header {position: sticky;
         top: 0;
@@ -154,6 +159,23 @@ header {
     font-size: 220%;
     text-transform: uppercase;
     letter-spacing: 2.5px;
+}
+
+#brand_values h4 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 180%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+}
+
+#brand_values p {
+    text-align: center;
+    margin: 70px;
+    font-size: 100%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    
 }
 
 /*left brand values container*/
