@@ -37,10 +37,11 @@ h4 {
     letter-spacing: 2.5px;
 }
 
-header {position: sticky;
-        top: 0;
-        background-color: #ffff;
-        
+header {
+    position: sticky;
+    top: 0;
+    background-color: blue;
+    text-align: center;
     }
 
 
@@ -48,14 +49,21 @@ header {position: sticky;
     font-size: 260%;
     text-decoration: none;
     text-transform: uppercase;
+    display: inline-block;
 }
 
 /*centering logo at top of screen in middle ref=https://www.geeksforgeeks.org/how-to-make-elements-float-to-center/*/
 
 .center {
-    text-align: center;
+    
     position: relative;
+    text-align: center;
     top: 20px;
+    background-color: red;
+    display: inline-block;
+    
+
+    
 }
 
 /*remove underline decoration*/
@@ -120,14 +128,14 @@ nav a {
 /*adding cover text on hero image*/
 
 #cover_text {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     float: left;
-    padding: 20px;
+    padding: 15px;
     margin-top: 30px;
-    margin-left: 20px;
+    margin-left: 50px;
     overflow: hidden;
-    background-color: rgba(242, 95, 52, .7);
+    background-color: rgba(242, 95, 52, .6);
     border-radius: 180%;
 
 }
@@ -135,7 +143,7 @@ nav a {
 #cover_text h2 {
     font-style: italic;
     color: #ffff;
-    font-size: 120%;
+    font-size: 150%;
     font-family: proxima-nova, serif;
     text-align: center;
     margin-top: 25%;
@@ -434,6 +442,7 @@ footer {
     position: absolute;
     left: 12%;
     padding: 30px;
+    
 }
 
 .signup-form > h2 {
