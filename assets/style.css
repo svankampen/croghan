@@ -40,8 +40,8 @@ h4 {
 header {
     position: sticky;
     top: 0;
-    background-color: blue;
-    text-align: center;
+    background-color: #ffff;
+        
     }
 
 
@@ -55,21 +55,16 @@ header {
 /*centering logo at top of screen in middle ref=https://www.geeksforgeeks.org/how-to-make-elements-float-to-center/*/
 
 .center {
-    
-    position: relative;
     text-align: center;
-    top: 20px;
-    background-color: red;
-    display: inline-block;
-    
-
-    
+    position: relative;
+    top: 20px; 
 }
 
-/*remove underline decoration*/
-.center a {
+.center h1 {
+    display: inline-block;
     text-decoration: none;
 }
+
 
 nav {
     font-family: proxima-nova,sans-serif;
@@ -122,6 +117,8 @@ nav a {
     background: url('./images/pexels-flora-westbrook-4191621.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
+    text-align: center;
+    display: absolute;
     
 }
 
@@ -352,35 +349,30 @@ footer {
 
 /*about us page cover text for hero image */
 #cover_text_about {
-    width: 30%;
+    width: 35%;
     height: 35%;
-    padding: 10px;
-    margin: 0 auto;
-    text-align: center;
+    padding: 20px;
     background-color: rgba(242, 95, 52, .7);
-    border-radius: 90%;
+    border-radius: 200%;
+    display: inline-block;
+    margin-top: 150px;
     
 }
 
 #cover_text_about h3 {
-    padding: 15px;
+    padding: 10px;
     font-size: 180%;
 
 }
 
 #cover_text_about p {
-    margin-top: 25px;
+    margin-top: 20px;
     letter-spacing: 2.5px;
     font-size: 150%;
     color: #ffff;
     text-align: center;
 }
 
-.about_us_blurb {
-    height: 250px;
-    width: 30%;
-    float: left;
-}
 
 .profile { 
     height: 350px;
@@ -434,14 +426,20 @@ footer {
 
 /*sign up section on contact us section*/
 
+#form-section {
+    position: absolute;
+    width: 100%;
+}
+
 .signup-form {
-    margin: 110px 10% 0 0;
+    margin-left: 120px;
+    margin-top: 100px;
     color: #ffff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
+    padding: 40px;
+    text-align: left;
     position: absolute;
-    left: 12%;
-    padding: 30px;
     
 }
 
@@ -450,6 +448,7 @@ footer {
     margin-bottom: 20px;
     font-family: freight-text-pro,serif;
     text-transform: uppercase;
+    text-align: left;
 }
 
 .text-input {
@@ -460,6 +459,7 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
+    text-align: left;
 }
 
 .text-input:hover {
