@@ -122,6 +122,17 @@ nav a {
     
 }
 
+#hero_image_contact {
+    height: 750px;
+    width: 100%;
+    background: url('./images/contact_us_hero.jpg') no-repeat center center;
+    background-size: cover;
+    clear: both;
+    text-align: center;
+    display: absolute;
+    
+}
+
 /*adding cover text on hero image*/
 
 #cover_text {
@@ -362,15 +373,17 @@ footer {
 #cover_text_about h3 {
     padding: 10px;
     font-size: 180%;
+    margin-top: 20px;
 
 }
 
 #cover_text_about p {
-    margin-top: 20px;
+    margin-top: 20 px;
     letter-spacing: 2.5px;
     font-size: 150%;
     color: #ffff;
     text-align: center;
+    padding: 10px;
 }
 
 
