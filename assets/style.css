@@ -133,6 +133,18 @@ nav a {
     
 }
 
+#hero_image_about {
+    height: 750px;
+    width: 100%;
+    background: url('./images/about_us_hero.jpg') no-repeat center center;
+    background-size: cover;
+    clear: both;
+    text-align: center;
+    display: absolute;
+    
+}
+
+
 /*adding cover text on hero image*/
 
 #cover_text {
@@ -363,7 +375,7 @@ footer {
     width: 35%;
     height: 35%;
     padding: 20px;
-    background-color: rgba(242, 95, 52, .7);
+    background-color: rgba(60, 60, 60, 0.7);
     border-radius: 200%;
     display: inline-block;
     margin-top: 150px;
@@ -448,7 +460,7 @@ footer {
     margin-left: 120px;
     margin-top: 100px;
     color: #ffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.8);
     max-width: 400px;
     padding: 40px;
     text-align: left;
