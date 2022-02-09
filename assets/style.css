@@ -377,6 +377,9 @@ footer {
     padding: 20px;
     background-color: rgba(60, 60, 60, 0.7);
     border-radius: 200%;
+    border-color: #fafafa;
+    border-style: solid;
+    border-width: 0.07px;
     display: inline-block;
     margin-top: 150px;
     
@@ -521,5 +524,30 @@ footer {
     margin-top: 50px;
 }
 
+/*media queries for responsive design*/
+/*used resource I love running as a template to work from*/
+
+/*for larger to med screen sizes 1200px down*/
+
+@media screen and (max-width: 1200px) {
+    #brand_values {
+        width: 80%;
+        height: 1200px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #brand_values h2 {
+        padding: 30px;
+        margin: 0;
+    }
+
+    .left_bv, .right_bv {
+        width: 100%;       
+        padding: 0;
+        justify-content: space-between;
+    }
+}
 
 
