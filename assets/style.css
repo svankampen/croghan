@@ -548,6 +548,14 @@ footer {
         padding: 0;
         justify-content: space-between;
     }
+
+    nav ul {
+        display: flex;
+        justify-content: space-around;  
+        margin-right: -50px;
+        padding-top: 10px;
+    }
+
 }
 
 
