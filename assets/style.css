@@ -41,12 +41,12 @@ header {
     position: sticky;
     top: 0;
     background-color: #ffff;
-        
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
     }
 
 
 #croghan_logo {
-    font-size: 260%;
+    font-size: 2.5rem;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
@@ -142,6 +142,7 @@ nav a {
     text-align: center;
     display: absolute;
     
+    
 }
 
 
@@ -172,7 +173,6 @@ nav a {
 /*header style*/
 
 header {
-    height: 100px;
     width: 100%;
 }
 
@@ -213,7 +213,7 @@ header {
     float: left;
     width: 50%;
     padding-top: 30px;
-    height: 600px;
+    
 }
 
 
@@ -233,7 +233,7 @@ header {
     float: left;
     width: 50%;
     padding-top: 30px;
-    height: 600px;
+    
 }
 
 
@@ -250,7 +250,6 @@ header {
 /*footer styling*/
 
 footer {
-    height: 200px;
     width: 100%;
     background-color: rgb(49, 48, 48);
 
@@ -382,6 +381,8 @@ footer {
     border-width: 0.07px;
     display: inline-block;
     margin-top: 150px;
+    box-shadow: rgba(0, 0, 0, 0.85) 0px 22px 70px 4px;
+    
     
 }
 
@@ -439,6 +440,7 @@ footer {
 .portrait {
     width: auto;
     height: 500px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .profile_photo {
@@ -492,6 +494,7 @@ footer {
 
 .text-input:hover {
     border-color: rgba(242, 95, 52, .7);
+    
 }
 
 .submit {
@@ -554,6 +557,20 @@ footer {
         justify-content: space-around;  
         margin-right: -50px;
         padding-top: 10px;
+    }
+
+    #cover_text {
+        font-size: 75%;
+        width: 150px;
+        height: 150px;
+        
+    }
+
+    #find_us > div {
+        width: 100%;
+        clear: both;
+        padding: 0;
+
     }
 
 }
