@@ -92,9 +92,9 @@ nav li {
     text-transform: uppercase;
     justify-content: space-evenly;
     list-style-type: none;
-    padding: 15px;
+    padding: 20px;
     color:#414042;
-    width: 91.4px;
+    width: 93.4px;
     text-align: center;
 }
 
@@ -276,18 +276,18 @@ footer {
 
 
 .social_networks i {
-    font-size: 200%;
+    font-size: 2rem;
     padding: 2px;
-    margin: 80px;
+    margin: 20px;
     color: #ffff;
 }
 
 
 /*Button "contact us" styling and effect*/
 #contact_section {
-    height: 200px;
     width: 100%;
-    margin-top: 80px;
+    padding: 20px;
+
     
 }
 
@@ -412,8 +412,8 @@ footer {
 
 
 .profile { 
-    width: 50%;
-    margin-right: 40px;   
+    width: 45%;
+    margin: 30px;
 }
 
 #profile_section {
@@ -443,8 +443,9 @@ footer {
 
 .portrait {
     width: auto;
-    height: 500px;
+    height: 400px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin: 20px;
 }
 
 .profile_photo {
@@ -479,13 +480,19 @@ footer {
     text-align: left;
 }
 
+#speech_bubble {
+    color: #fafafa;
+    font-size: 3rem;
+    margin-left: 10px;
+}
+
 .text-input {
-    background: transparent;
+    padding: 5px;
     color: #fafafa;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
+    border: 1px solid #414042;
     border-radius: 2px;
     text-align: left;
 }
@@ -513,7 +520,8 @@ footer {
 
 #textarea {
     width: 100%;
-    height: 150px;
+    height: 130px;
+    padding: 5px;
 }
 
 #socials_callout {
