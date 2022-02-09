@@ -208,6 +208,13 @@ header {
     
 }
 
+/*icons for brand values*/
+i {
+    color: #414042;
+    font-size: 2rem;
+    
+}
+
 /*left brand values container*/
 .left_bv {
     float: left;
