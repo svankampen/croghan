@@ -37,12 +37,15 @@ h4 {
     letter-spacing: 2.5px;
 }
 
+/*header style*/
 header {
     position: sticky;
     top: 0;
     background-color: #ffff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
+    width: 100%;
     }
+
 
 
 #croghan_logo {
@@ -147,7 +150,7 @@ nav a {
     text-align: center;
     display: absolute;
     
-    
+
 }
 
 
@@ -173,12 +176,6 @@ nav a {
     font-family: proxima-nova, serif;
     text-align: center;
     margin-top: 25%;
-}
-
-/*header style*/
-
-header {
-    width: 100%;
 }
 
 /*Brand Values Section*/
@@ -460,7 +457,6 @@ footer {
 /*sign up section on contact us section*/
 
 #form-section {
-    position: absolute;
     width: 100%;
 }
 
