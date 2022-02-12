@@ -558,12 +558,6 @@ footer {
         justify-content: space-between;
     }
 
-    nav ul {
-        display: flex;
-        justify-content: space-around;  
-        padding-top: 10px;
-    }
-
     #cover_text {
         font-size: 75%;
         width: 150px;
@@ -575,9 +569,44 @@ footer {
         width: 100%;
         clear: both;
         padding: 0;
+        height: 150px;
 
     }
 
 }
 
+/*media query for mobile responsiveness, used I love running as a reference to build this out*/
+@media screen and (max-width: 950px) {
+    #brand_values {
+        width: 100%;
+        margin: 0 auto;
+    }
 
+/*adjusted hero image height so it didn't appear zoomed when viewed on mobile*/
+    #hero_image {
+        height: 400px;
+        width: auto;
+    }
+
+    #brand_values h2 {
+        padding: 30px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .left_bv, .right_bv {
+        width: 100%;       
+        padding: 0;
+        text-align: center;
+    }
+
+    #cover_text {
+        font-size: 75%;
+        width: 150px;
+    }
+
+    #find_us > div {
+        width: 100%;
+        padding: 0;
+    }
+}
