@@ -286,10 +286,7 @@ footer {
 
 /*Button "contact us" styling and effect*/
 #contact_section {
-    width: 100%;
-    padding: 20px;
-
-    
+    width: 100%;    
 }
 
 #button {
@@ -320,7 +317,6 @@ footer {
     padding: 20px;
     display: flex;
     justify-content: center;
-    align-items: center;
  
 }
 
@@ -337,7 +333,6 @@ footer {
 #find_us div {
     color: #ffff;
     background-color: rgba(73, 47, 47, 0.5);
-    /* height: 425px; */
     width: 25%;
     float: left;
     text-align: center;
@@ -433,12 +428,6 @@ footer {
     letter-spacing: 2.5px;
 }
 
-/* #contact_us_section {
-    height: 300px;
-    width: 100%;
-    padding: 10px;
-    margin-top: 200px;
-} */
 
 .portrait {
     width: auto;
