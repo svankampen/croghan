@@ -337,7 +337,7 @@ footer {
 #find_us div {
     color: #ffff;
     background-color: rgba(73, 47, 47, 0.5);
-    height: 425px;
+    /* height: 425px; */
     width: 25%;
     float: left;
     text-align: center;
@@ -352,9 +352,8 @@ footer {
     font-family: freight-text-pro,serif;
     color: #ffff;
     letter-spacing: 2.5px;
-    margin-top: 15%;
-    padding-top: 30px;
-    padding-bottom: 20px;
+    margin: 10px;
+    padding: 20px;
     text-transform: uppercase;
     text-align: center;
     }
@@ -362,9 +361,9 @@ footer {
 #find_us h3 {
     font-family: proxima-nova, serif;
     letter-spacing: 2.5px;
-    padding-top: 10px;
+    padding: 15px;
     font-size: 110%;
-    margin-top: 5%;
+    margin: 20px;
 }
 
 /*title for find us section*/
@@ -614,9 +613,22 @@ footer {
         text-align: center;
     }
 
-    #find_us > div {
+    #find_us {
         width: 100%;
         padding: 0;
         clear: both;
+    }
+
+    #find_us h2 {
+        font-size: 1.1rem;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    #find_us h3 {
+        font-size: 1rem;
+        padding: 5px;
+        margin: 5px;
+        
     }
 }
