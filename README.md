@@ -12,7 +12,12 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 - Giving back to the community
 - Quality Gauranteed
 
+![image](https://user-images.githubusercontent.com/64638313/153774441-3efc4075-b7e0-4444-83ac-d69265ecf37d.png)
+
+
 ---
 
 ## Features
+
+Homepage
 
