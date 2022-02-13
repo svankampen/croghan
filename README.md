@@ -33,6 +33,13 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ![image](https://user-images.githubusercontent.com/64638313/153779481-6220f6db-d4a6-4679-abc2-d49df71a8cda.png)
 
+- **Brand Values Section**
+    1. A brand values section has been displayed to give the visitor insight into Croghan's beliefs and provides them with the oppertunity to quickly understand if Croghan is a good fit for them as a retailer.
+    2. This section should act as the elevator pitch giving the vistor (potential supplier) enough information to enquiry more.
+
+![image](https://user-images.githubusercontent.com/64638313/153779672-db971c94-e12d-47db-90ef-3ed092813ca0.png)
+
+
    
 
 
