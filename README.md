@@ -1,4 +1,4 @@
-![Croghan logo](/assets/images/Croghan_Logo_white_v2.jpg)
+![Croghan logo](/assets/images/Croghan_Logo_white_v2.jpg align:center;)
 
 Welcome to Croghan
 
