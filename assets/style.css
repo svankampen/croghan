@@ -404,18 +404,19 @@ footer {
     padding: 10px;
 }
 
-
+/*profile section for about us page*/
 .profile { 
-    width: 45%;
-    margin: 30px;
+    width: 50%;
+    margin-right: 40px;
+    padding: 30px;
 }
 
 #profile_section {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    
 }
+
 
 .profile h2 {
     margin-bottom: 30px;
@@ -431,16 +432,11 @@ footer {
 
 .portrait {
     width: auto;
-    height: 380px;
+    height: 300px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
     margin: 25px;
+    
 }
-
-.profile_photo {
-    width: 30%;
-}
-
-
 /*sign up section on contact us section*/
 
 #form-section {
@@ -526,6 +522,7 @@ footer {
 /*for larger to med screen sizes 1200px down*/
 
 @media screen and (max-width: 1200px) {
+    /*index.html page code*/
     #brand_values {
         width: 90%;
         height: 1200px;
@@ -557,6 +554,10 @@ footer {
         height: 150px;
 
     }
+
+    /*about.html code*/
+
+
 
 }
 
@@ -596,6 +597,28 @@ footer {
         
     }
 
+    /*covert_text_about for aboutus.html*/
+    #hero_image_about {
+        height: 400px;
+        width: auto;
+    }
+
+    #cover_text_about {
+        width: 170px;
+        height: 170px;
+        font-size: 0.5rem;
+        text-align: center;
+    }
+
+    #cover_text_about h3 {
+        margin: 0;
+    }
+
+    #cover_text_about p {
+        margin: 0;
+        padding: 5px;
+    }
+        
     .left_bv, .right_bv {
         width: 100%;       
         padding: 0;
