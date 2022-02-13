@@ -441,17 +441,17 @@ footer {
 
 #form-section {
     width: 100%;
+
 }
 
 .signup-form {
-    margin-left: 120px;
-    margin-top: 100px;
     color: #ffff;
     background-color: rgba(60, 60, 60, 0.8);
     max-width: 400px;
     padding: 40px;
     text-align: left;
-    position: absolute;
+    margin-top: 50px;
+    display: inline-block;
     
 }
 
@@ -652,5 +652,11 @@ footer {
         padding: 5px;
         margin: 5px;
         
+    }
+    /*hero image on about page, adjustment for less than 950px*/
+    #hero_image_contact {
+        height: 500px;
+        width: auto;
+
     }
 }
