@@ -39,6 +39,24 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ![image](https://user-images.githubusercontent.com/64638313/153779672-db971c94-e12d-47db-90ef-3ed092813ca0.png)
 
+- **Find Us Section**
+    1. On the homepage a where to find us section has been added, this section shows where Croghan will be attending European tradeshows.
+    2. This section provides the visitor with the oppertunity to talk with Croghan face to face at a trade show.
+
+![image](https://user-images.githubusercontent.com/64638313/153779953-d18ab3d6-9766-490d-bc7d-3aa0511ed19c.png)
+
+
+- **Contact Us Button**
+    1. A button has been added at the bottom of the homepage and about us page just above the footer. This button acts as a call to action to fill out the contact us form on the contact us page. 
+    2. The button has a hover effect and an active effect to ensure it is clear for the user that this is a functional button. The button will move the user to the contact page.
+
+![image](https://user-images.githubusercontent.com/64638313/153780049-f8d53b9e-9406-483f-ad57-c3acfa2e8236.png)
+
+
+- **Footer**
+
+
+
 
    
 
