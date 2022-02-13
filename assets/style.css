@@ -131,8 +131,8 @@ nav a {
 }
 
 #hero_image_contact {
-    height: 750px;
-    width: 100%;
+    min-height: 90vh;
+    width: auto;
     background: url('./images/contact_us_hero.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
@@ -285,9 +285,6 @@ footer {
 
 
 /*Button "contact us" styling and effect*/
-#contact_section {
-    width: 100%;    
-}
 
 #button {
     background-color: #414042;
@@ -315,6 +312,7 @@ footer {
 
 #button_container {
     padding: 20px;
+    margin: 20px;
     display: flex;
     justify-content: center;
  
@@ -536,7 +534,7 @@ footer {
     .left_bv, .right_bv {
         width: 100%;       
         padding: 0;
-        /* justify-content: space-between; */
+    
     }
 
     #cover_text {
@@ -656,6 +654,7 @@ footer {
     /*form on contact page, adjustment for less than 950px*/
     #cover_form {
         padding: 15px;
+    
     }
     
 }
