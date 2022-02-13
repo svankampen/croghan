@@ -653,10 +653,9 @@ footer {
         margin: 5px;
         
     }
-    /*hero image on about page, adjustment for less than 950px*/
-    #hero_image_contact {
-        height: 500px;
-        width: auto;
-
+    /*form on contact page, adjustment for less than 950px*/
+    #cover_form {
+        padding: 15px;
     }
+    
 }
