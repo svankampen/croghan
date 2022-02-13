@@ -21,10 +21,18 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ### Existing Features
 
-- Navigation Menu
+- **Navigation Menu**
     1. A naviagtion menu has been added to the webpage on all three pages with four buttons "Home", "About", "Contact" and the Logo which deafults to the homepage.
     2. The Navigation bar has been style consistently for ease of use and an enjoyable expierence as the vistor runs through each section.
 
 ![image](https://user-images.githubusercontent.com/64638313/153779223-260c364c-43cd-4f03-94c9-0cfd7fd3aae4.png)
+
+- **Landing Page Image**
+    1. The landing page displays a hero image with a text overlay "Buy Once Buy with Confidence" together these two eliments introduce the vistor to what the webpage is here for. 
+    2. The hero image is set out to capture the visitors attention and to encourage the vistor to read more.
+
+![image](https://user-images.githubusercontent.com/64638313/153779481-6220f6db-d4a6-4679-abc2-d49df71a8cda.png)
+
+   
 
 
