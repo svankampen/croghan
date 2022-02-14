@@ -25,8 +25,6 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     1. A naviagtion menu has been added to the webpage on all three pages with four buttons "Home", "About", "Contact" and the Logo which deafults to the homepage.
     2. The Navigation bar has been style consistently for ease of use and an enjoyable expierence as the vistor runs through each section.
 
-<<<<<<< HEAD
-=======
 ![image](https://user-images.githubusercontent.com/64638313/153779223-260c364c-43cd-4f03-94c9-0cfd7fd3aae4.png)
 
 - **Landing Page Image**
@@ -56,14 +54,10 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 
 - **Footer**
->>>>>>> 2fe045309d2b6656d7b71f60b88af9977397ad61
+    1. Within the footer the social tags can been seen for facebook, instagram, twitter and youtube. 
+    2. Each icon if clicked will load out a new page for the visitor with the desired Social Media Account showing on a new tab.
+    3. The background has been given a dark grey background to provide contrast to the rest of the page with the icons styled in an off white to standout on the footer.
+    4. The footer is consistent throughout each page is responsive for desktop, tablet and mobile.
 
-
-
-
-<<<<<<< HEAD
-=======
-   
-
->>>>>>> 2fe045309d2b6656d7b71f60b88af9977397ad61
+![image]
 

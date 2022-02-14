@@ -37,7 +37,7 @@ h4 {
     letter-spacing: 2.5px;
 }
 
-/*header style*/
+/*header style, sticky header with shadow effect, used https://getcssscan.com/css-box-shadow-examples*/
 header {
     position: sticky;
     top: 0;
