@@ -16,3 +16,14 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ## Features
 
+### Existing Features
+
+- **Navigation Menu**
+    1. A naviagtion menu has been added to the webpage on all three pages with four buttons "Home", "About", "Contact" and the Logo which deafults to the homepage.
+    2. The Navigation bar has been style consistently for ease of use and an enjoyable expierence as the vistor runs through each section.
+
+
+
+
+
+

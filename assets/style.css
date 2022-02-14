@@ -125,9 +125,7 @@ nav a {
     background: url('./images/pexels-flora-westbrook-4191621.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
-    text-align: center;
-    display: absolute;
-    
+    text-align: center;    
 }
 
 #hero_image_contact {
@@ -137,8 +135,6 @@ nav a {
     background-size: cover;
     clear: both;
     text-align: center;
-    display: absolute;
-    
 }
 
 #hero_image_about {
@@ -147,9 +143,7 @@ nav a {
     background: url('./images/about_us_hero.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
-    text-align: center;
-    display: absolute;
-    
+    text-align: center;   
 
 }
 
@@ -381,20 +375,16 @@ footer {
     border-width: 0.07px;
     display: inline-block;
     margin-top: 150px;
-    box-shadow: rgba(0, 0, 0, 0.85) 0px 22px 70px 4px;
-    
-    
+    box-shadow: rgba(0, 0, 0, 0.85) 0px 22px 70px 4px; 
 }
 
 #cover_text_about h3 {
     padding: 10px;
     font-size: 180%;
     margin-top: 20px;
-
 }
 
 #cover_text_about p {
-    margin-top: 20 px;
     letter-spacing: 2.5px;
     font-size: 150%;
     color: #ffff;
