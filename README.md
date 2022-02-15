@@ -94,6 +94,14 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ---
 
+### Lighthouse Testing
+
+- The code for each page has been validated using Dev Tools - Lighthouse.
+- Lighthouse showed that images were too large and in order to fix this issue the files had to be compressed using resource https://tinypng.com/
+- Using lighthouse as resource allowed for quick retesting and changes to each element that was flagged until an appropriate score was obtained.
+
+![image](./assets/images/testing_snip.JPG)
+
 ### Validator Testing
 
 - HTML
