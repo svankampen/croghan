@@ -86,3 +86,16 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     3. The form has a hover effect added to the button to ensure the visitor understand this is functional button.
 
 ![image](./assets/images/contact_snip.JPG)
+
+---
+
+## Testing
+
+---
+
+### Validator Testing
+
+    - HTML 
+        - No errors were returned when passing through the official W3C validator
+    - CSS
+        - No errors were found when passing through the official (Jigsaw) validator
