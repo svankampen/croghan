@@ -70,5 +70,13 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     3. The background has been given a dark grey background to provide contrast to the rest of the page with the icons styled in an off white to standout on the footer.
     4. The footer is consistent throughout each page is responsive for desktop, tablet and mobile.
 
-![image](../croghan/assets/images/footer.JPG)
+![image](./assets/images/footer.JPG)
+
+- **About Us Section**
+    1. The next page the vistor will see along the naviation menu is the "about us" section. Initially greeted with a hero image with a text overlay. It purpose is to get the visitor to read more.
+    2. This page is here to demonstrate to the vistor who the founders of Croghan are and provide a backgorund into both Sam & Matt.
+    3. Along with a short paragraph of text is a portrait photo of each founder so the visitor can get a sense of who they are going to be doing business with.
+    4. The page remains consistent in its call to action button for "Contact Us" and its footer containing the socials.
+
+![image](./assets/images/about_us_snip.JPG)
 
