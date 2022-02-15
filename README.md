@@ -14,6 +14,17 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ![image](https://user-images.githubusercontent.com/64638313/153774441-3efc4075-b7e0-4444-83ac-d69265ecf37d.png)
 
+---
+
+## Preparation
+
+- **Wire Frame**
+    1. During the planning phase of the project a wireframing tool called balsamiq was used. 
+    2. By using a wireframe the webpage could be visualised and the number of sections and functions understood from a highlevel.
+    3. Throughout the project the wireframe was used as a guide of what was set out to achieve.
+    4. The wireframe file can be viewed here [Link](../croghan/assets/wireframe/Croghan_wire_frame_v1.bmpr)
+
+
 
 ---
 
@@ -59,5 +70,7 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     3. The background has been given a dark grey background to provide contrast to the rest of the page with the icons styled in an off white to standout on the footer.
     4. The footer is consistent throughout each page is responsive for desktop, tablet and mobile.
 
-![image](../croghan/assets/images/footer.JPG)
+![image](../croghan/assets/images/footer.JPG
+
+)
 
