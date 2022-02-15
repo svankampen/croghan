@@ -114,6 +114,13 @@ nav a:hover {
 
 nav a:active {
     color: #939896;
+    border-bottom: solid 1px #414042;
+}
+
+/*acitve underline on nav tabs, reference i love running*/
+.active {
+    border-bottom: 1px solid #414042;
+
 }
 
 nav a {
