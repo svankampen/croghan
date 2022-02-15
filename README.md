@@ -1,4 +1,5 @@
-![Croghan logo](/assets/images/Croghan_Logo_white_v2.jpg)
+![Croghan logo](./assets/images/croghan_snip.png)
+
 
 Welcome to Croghan
 
@@ -100,4 +101,6 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 - CSS
     - No errors were found when passing through the official (Jigsaw) validator
+
+
 
