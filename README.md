@@ -59,5 +59,5 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     3. The background has been given a dark grey background to provide contrast to the rest of the page with the icons styled in an off white to standout on the footer.
     4. The footer is consistent throughout each page is responsive for desktop, tablet and mobile.
 
-![image]
+![image](../croghan/assets/images/footer.JPG)
 
