@@ -80,3 +80,9 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ![image](./assets/images/about_us_snip.JPG)
 
+- **Contact Us Section**
+    1. When the visitor clicks either the call to action button "contact us" or naviagtes to the contact page they will move to the page with a contact form.
+    2. The form is formatted and provides an open text area for the visitor to submit a message.
+    3. The form has a hover effect added to the button to ensure the visitor understand this is functional button.
+
+![image](./assets/images/contact_snip.JPG)
