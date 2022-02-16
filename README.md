@@ -92,6 +92,19 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 ## Testing
 
+### Manual Testing
+
+- **Click through**
+    - In order to ensure that the user experience is as expected manual testing was performed on the webpage.
+    - This involved clicking on all navigations links to ensure the user was brought to the desired page.
+    - Testing any hover functions that had been added for naviagtion links and user buttons.
+    - Scrolling was also tested for sticky headers.
+
+- **Bugs**
+    - When hovering over the navigation links it was found that there was an a:active set for clicking on a link which interfeared with the class a.active for underlining the active navigation tab. The a:active function was removed from the naviagtion links to add a more user friendly experience. 
+
+- **Screen Resolution**
+
 ---
 
 ### Lighthouse Testing
