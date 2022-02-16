@@ -128,7 +128,7 @@ nav a {
 #hero_image {
     height: 750px;
     width: 100%;
-    background: url('../images/pexels-flora-westbrook-4191621.jpg') no-repeat center center;
+    background: url('../images/home_hero.jpg') no-repeat center center;
     background-size: cover;
     clear: both;
     text-align: center;    
@@ -320,7 +320,7 @@ footer {
 
 /*find us section*/
 #find_us {
-    background-image: url(../images/HDRshooter-super-ultra-wide-wallpaper-043-X2.jpg);
+    background-image: url(../images/find_us.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

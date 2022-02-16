@@ -99,11 +99,20 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
     - This involved clicking on all navigations links to ensure the user was brought to the desired page.
     - Testing any hover functions that had been added for naviagtion links and user buttons.
     - Scrolling was also tested for sticky headers.
+    - After retesting and fixing bugs no more issues where found.
 
 - **Bugs**
     - When hovering over the navigation links it was found that there was an a:active set for clicking on a link which interfeared with the class a.active for underlining the active navigation tab. The a:active function was removed from the naviagtion links to add a more user friendly experience. 
 
 - **Screen Resolution**
+    - In order to create a user friendly experience for desktop, tablet and mobile the webpage has been tested for screen resolution sizes.
+    - This was carried out using Dev Tools and adjusting the screen resolution for each respectively.
+    - After restesting the bugs that were found no issues could be noticed, this was also passed via Lighthouse.
+
+- **Bugs**
+    - There was a bug found when adjusting the screen resolution to mobile. On the homepage section for brand values the test was overflowing onto the contact us button and footer. This was adjusted and fixed by remove the height from the footer and contact button section.
+    - Another bug appeared on the contact us page, because the page was not long enough it created a white space below the footer. When this was investigated a sticky footer was recommended but it was found that adjusting the height of the hero image section worked best to across all devices.
+
 
 ---
 
@@ -125,7 +134,7 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 
 ---
-# Deployment
+## Deployment
 
 - The site was deployed using GitHub Pages as follows ;
     - In the GitHub repository, navigate to the Settings tab
@@ -135,6 +144,27 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 The live link can be found here - https://svankampen.github.io/croghan/
 
-# Credits 
+---
+
+## Credits 
+
+- **Content**
+    - Footer logos have been taken from https://fontawesome.com/
+    - Adobe type founds where used from Croghan Brand assets of which designer Colm O Connor created the branding for https://www.colmoconnor.com/ 
+    - Colour pallete used for headings and text come from Croghan Brand assets of which designer Colm O Connor created the branding for https://www.colmoconnor.com/ 
+    - Mentor Akshat Garg recommended https://flexboxfroggy.com/ to use the flex function where needed in the webpage.
+    - The structure for the project was created using I Love Running as a guide https://github.com/Code-Institute-Org/love-running-2.0 . Basic structure for the contact form and webpage layout was referred to throughout.
+    - For any code issues that came up https://www.w3schools.com/html/html_css.asp was used as a library of potential solutions in HTML & CSS.
+    - To compress images the webpage https://tinypng.com/ was used.
+
+
+
+- **Media**
+    - Portrait images of the founders are owned personally and where taken for another webpage project.
+    - Image for the homepage hero image is taken from opensource https://www.pexels.com/
+    - Image for the homepage find us at section was from opensource https://www.hdrshooter.com/2020/04/22/more-super-ultra-wide-wallpapers-3/ 
+    - Image for about us hero image is taken from opensource https://www.pexels.com/
+    - Image for contact us hero image is taken from opensource https://www.pexels.com/
+
 
 
