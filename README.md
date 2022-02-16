@@ -3,15 +3,15 @@
 
 Welcome to Croghan
 
-This webpage has been created and designed to act as marketing material as part of a *Croghan* webshop going live.
-The Croghan webshop is a real project that I am currently working on with a webdesign team however in order to gain supplier buy in we require a clean and concise landing page that allows our perspective suppliers understand what we are all about at *Croghan*
+This webpage has been created and designed to act as marketing material as part of a *Croghan* web shop going live.
+The Croghan web shop is a real project that I am currently working on with a web design team however in order to gain supplier buy in we require a clean and concise landing page that allows our perspective suppliers understand what we are all about at *Croghan*
 
-The webpage is targeted towards a curated range of suppliers that create kitchenware with a certain ethos ;
+The webpage is targeted towards a curated range of suppliers that create kitchenware with a certain ethos;
 
-- Enviromentally friendly
+- Environmentally friendly
 - Sustainably sourced
 - Giving back to the community
-- Quality Gauranteed
+- Quality Guaranteed
 
 ![image](https://user-images.githubusercontent.com/64638313/153774441-3efc4075-b7e0-4444-83ac-d69265ecf37d.png)
 
@@ -21,7 +21,7 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 - **Wire Frame**
     1. During the planning phase of the project a wireframing tool called balsamiq was used. 
-    2. By using a wireframe the webpage could be visualised and the number of sections and functions understood from a highlevel.
+    2. By using a wireframe the webpage could be visualised and the number of sections and functions understood from a high level.
     3. Throughout the project the wireframe was used as a guide of what was set out to achieve.
     4. The wireframe file can be viewed here [Link](../croghan/assets/wireframe/Croghan_wire_frame_v1.bmpr)
 
@@ -34,26 +34,26 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 ### Existing Features
 
 - **Navigation Menu**
-    1. A naviagtion menu has been added to the webpage on all three pages with four buttons "Home", "About", "Contact" and the Logo which deafults to the homepage.
-    2. The Navigation bar has been style consistently for ease of use and an enjoyable expierence as the vistor runs through each section.
+    1. A navigation menu has been added to the webpage on all three pages with four buttons "Home", "About", "Contact" and the Logo which defaults to the homepage.
+    2. The Navigation bar has been style consistently for ease of use and an enjoyable experience as the visitor runs through each section.
 
 ![image](https://user-images.githubusercontent.com/64638313/153779223-260c364c-43cd-4f03-94c9-0cfd7fd3aae4.png)
 
 - **Landing Page Image**
-    1. The landing page displays a hero image with a text overlay "Buy Once Buy with Confidence" together these two eliments introduce the vistor to what the webpage is here for. 
-    2. The hero image is set out to capture the visitors attention and to encourage the vistor to read more.
+    1. The landing page displays a hero image with a text overlay "Buy Once Buy with Confidence" together these two elements introduce the visitor to what the webpage is here for. 
+    2. The hero image is set out to capture the visitor’s attention and to encourage the visitor to read more.
 
 ![image](https://user-images.githubusercontent.com/64638313/153779481-6220f6db-d4a6-4679-abc2-d49df71a8cda.png)
 
 - **Brand Values Section**
-    1. A brand values section has been displayed to give the visitor insight into Croghan's beliefs and provides them with the oppertunity to quickly understand if Croghan is a good fit for them as a retailer.
-    2. This section should act as the elevator pitch giving the vistor (potential supplier) enough information to enquiry more.
+    1. A brand values section has been displayed to give the visitor insight into Croghan's beliefs and provides them with the opportunity to quickly understand if Croghan is a good fit for them as a retailer.
+    2. This section should act as the elevator pitch giving the visitor (potential supplier) enough information to enquiry more.
 
 ![image](https://user-images.githubusercontent.com/64638313/153779672-db971c94-e12d-47db-90ef-3ed092813ca0.png)
 
 - **Find Us Section**
     1. On the homepage a where to find us section has been added, this section shows where Croghan will be attending European tradeshows.
-    2. This section provides the visitor with the oppertunity to talk with Croghan face to face at a trade show.
+    2. This section provides the visitor with the opportunity to talk with Croghan face to face at a trade show.
 
 ![image](https://user-images.githubusercontent.com/64638313/153779953-d18ab3d6-9766-490d-bc7d-3aa0511ed19c.png)
 
@@ -66,7 +66,7 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 
 
 - **Footer**
-    1. Within the footer the social tags can been seen for facebook, instagram, twitter and youtube. 
+    1. Within the footer the social tags can been seen for Facebook, Instagram, twitter and YouTube. 
     2. Each icon if clicked will load out a new page for the visitor with the desired Social Media Account showing on a new tab.
     3. The background has been given a dark grey background to provide contrast to the rest of the page with the icons styled in an off white to standout on the footer.
     4. The footer is consistent throughout each page is responsive for desktop, tablet and mobile.
@@ -74,15 +74,15 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 ![image](./assets/images/footer.JPG)
 
 - **About Us Section**
-    1. The next page the vistor will see along the naviation menu is the "about us" section. Initially greeted with a hero image with a text overlay. It purpose is to get the visitor to read more.
-    2. This page is here to demonstrate to the vistor who the founders of Croghan are and provide a backgorund into both Sam & Matt.
+    1. The next page the visitor will see along the navigation menu is the "about us" section. Initially greeted with a hero image with a text overlay. Its purpose is to get the visitor to read more.
+    2. This page is here to demonstrate to the visitor who the founders of Croghan are and provide a background into both Sam & Matt.
     3. Along with a short paragraph of text is a portrait photo of each founder so the visitor can get a sense of who they are going to be doing business with.
-    4. The page remains consistent in its call to action button for "Contact Us" and its footer containing the socials.
+    4. The page remains consistent in its call-to-action button for "Contact Us" and its footer containing the socials.
 
 ![image](./assets/images/about_us_snip.JPG)
 
 - **Contact Us Section**
-    1. When the visitor clicks either the call to action button "contact us" or naviagtes to the contact page they will move to the page with a contact form.
+    1. When the visitor clicks either the call-to-action button "contact us" or navigate to the contact page they will move to the page with a contact form.
     2. The form is formatted and provides an open text area for the visitor to submit a message.
     3. The form has a hover effect added to the button to ensure the visitor understand this is functional button.
 
@@ -97,17 +97,17 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 - **Click through**
     - In order to ensure that the user experience is as expected manual testing was performed on the webpage.
     - This involved clicking on all navigations links to ensure the user was brought to the desired page.
-    - Testing any hover functions that had been added for naviagtion links and user buttons.
+    - Testing any hover functions that had been added for navigation links and user buttons.
     - Scrolling was also tested for sticky headers.
     - After retesting and fixing bugs no more issues where found.
 
 - **Bugs**
-    - When hovering over the navigation links it was found that there was an a:active set for clicking on a link which interfeared with the class a.active for underlining the active navigation tab. The a:active function was removed from the naviagtion links to add a more user friendly experience. 
+    - When hovering over the navigation links it was found that there was an a:active set for clicking on a link which interfere with the class a.active for underlining the active navigation tab. The a:active function was removed from the navigation links to add a more user friendly experience. 
 
 - **Screen Resolution**
-    - In order to create a user friendly experience for desktop, tablet and mobile the webpage has been tested for screen resolution sizes.
+    - In order to create a user-friendly experience for desktop, tablet and mobile the webpage has been tested for screen resolution sizes.
     - This was carried out using Dev Tools and adjusting the screen resolution for each respectively.
-    - After restesting the bugs that were found no issues could be noticed, this was also passed via Lighthouse.
+    - After retesting the bugs that were found no issues could be noticed, this was also passed via Lighthouse.
 
 - **Bugs**
     - There was a bug found when adjusting the screen resolution to mobile. On the homepage section for brand values the test was overflowing onto the contact us button and footer. This was adjusted and fixed by remove the height from the footer and contact button section.
@@ -136,7 +136,7 @@ The webpage is targeted towards a curated range of suppliers that create kitchen
 ---
 ## Deployment
 
-- The site was deployed using GitHub Pages as follows ;
+- The site was deployed using GitHub Pages as follows;
     - In the GitHub repository, navigate to the Settings tab
     - From the code and automation section select Pages
     - From the source section drop-down menu, select the Master Branch
@@ -151,7 +151,7 @@ The live link can be found here - https://svankampen.github.io/croghan/
 - **Content**
     - Footer logos have been taken from https://fontawesome.com/
     - Adobe type founds where used from Croghan Brand assets of which designer Colm O Connor created the branding for https://www.colmoconnor.com/ 
-    - Colour pallete used for headings and text come from Croghan Brand assets of which designer Colm O Connor created the branding for https://www.colmoconnor.com/ 
+    - Colour palette used for headings and text come from Croghan Brand assets of which designer Colm O Connor created the branding for https://www.colmoconnor.com/ 
     - Mentor Akshat Garg recommended https://flexboxfroggy.com/ to use the flex function where needed in the webpage.
     - The structure for the project was created using I Love Running as a guide https://github.com/Code-Institute-Org/love-running-2.0 . Basic structure for the contact form and webpage layout was referred to throughout.
     - For any code issues that came up https://www.w3schools.com/html/html_css.asp was used as a library of potential solutions in HTML & CSS.
@@ -165,6 +165,3 @@ The live link can be found here - https://svankampen.github.io/croghan/
     - Image for the homepage find us at section was from opensource https://www.hdrshooter.com/2020/04/22/more-super-ultra-wide-wallpapers-3/ 
     - Image for about us hero image is taken from opensource https://www.pexels.com/
     - Image for contact us hero image is taken from opensource https://www.pexels.com/
-
-
-
